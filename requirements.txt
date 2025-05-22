@@ -1,0 +1,42 @@
+
+File: MS_XGBoost_CrossVal.R
+
+	Built-in R functions
+	library(themis)
+	library(xgboost)
+	library(caret)
+	library(Matrix)
+	library(GGally)
+	library(corrplot)
+	library(ggplot2)
+	library(reshape2)
+
+File: MS_XGBoost.R
+
+	Built-in R functions
+	library(xgboost)
+	library(caret)
+	library(Matrix)
+
+File: MS_Logistic.R
+
+	Built-in R functions
+	library(nnet)
+	library(caret)
+
+File: MS_PCA_LinearRegression.R
+
+	Built-in R functions
+	library(ggplot2)
+
+File: MS_PCA_LinearRegression.R
+
+      	pandas==1.5.3
+	numpy==1.24.2
+	matplotlib==3.7.1
+	seaborn==0.12.2
+	scikit-learn==1.2.2
+	imblearn==0.0
+	scipy==1.10.1
+	xgboost==1.7.3
+	statsmodels==0.13.5
