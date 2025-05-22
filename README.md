@@ -1,1 +1,2 @@
 # Predicting-Injury-Risk-in-NBA-Players
+This project uses machine learning to predict injury risk in NBA players based on workload and performance data from 2013–2023. By applying models like XGBoost, Random Forest, and SVM with techniques such as SMOTE and PCA, we achieved a top accuracy of 97.97%. The model helps identify high-risk players using metrics like Days Missed, Games Played, and Usage %, supporting data-driven decisions in sports injury prevention.
